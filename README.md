@@ -2,4 +2,5 @@
 
 Embedded Systems • Control • Avionics • Spacecraft Systems • Signal Processing
 
-Interested in how things fly, communicate, and compute.
+I like systems that fly, think, and don’t crash.
+Also very interested in noodles (high priority subsystem)
